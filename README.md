@@ -18,3 +18,6 @@ Jupyter Notebook for analysis
 
 
 <img width="1173" alt="Arima" src="https://github.com/user-attachments/assets/34514d37-46a9-4b37-b3e0-6d2049c809a3" />
+
+
+<img width="1190" alt="Sarima" src="https://github.com/user-attachments/assets/6723ce91-ed75-443d-b9b4-2965a8ab787a" />
