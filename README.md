@@ -9,6 +9,7 @@ Stationarity testing and trend analysis
 ARIMA and SARIMA model implementation
 Model evaluation using metrics like RMSE & AIC
 Forecast visualization for business insights
+
 🔧 Technologies Used
 
 Python (pandas, numpy, statsmodels, matplotlib)
